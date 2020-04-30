@@ -25,7 +25,7 @@ int main()
 		for (int i = 0; i < temp_vec.size(); i++) {
 			for (int j = 0; j < temp_vec[i].size(); j++)
 				if (temp_vec[i][j]) {
-					buffer[i + j * width] = '0';
+					buffer[i + j * width] = 0x25a0;
 				}
 		}
 		WriteConsoleOutputCharacter(handle, buffer, width * height, { 0,0 }, &test);

@@ -152,10 +152,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="gameoflife.cpp" />
-    <ClCompile Include="zycie.cpp" />
+    <ClCompile Include="life.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="zycie.h" />
+    <ClInclude Include="life.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
