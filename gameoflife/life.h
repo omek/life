@@ -4,9 +4,8 @@ class life
 {
 public:
 	life(int w, int h);
-	void randomize(int prawdopodobienstwo);
+	void randomize(int probability);
 	std::vector<std::vector<bool>> step();
-	~life();
 private:
 	int p;
 	int Height;

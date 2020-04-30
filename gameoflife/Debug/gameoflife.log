@@ -2,4 +2,8 @@
 g:\visual studio 2017\source\repos\gameoflife\gameoflife\gameoflife.cpp(16): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
 g:\visual studio 2017\source\repos\gameoflife\gameoflife\gameoflife.cpp(25): warning C4018: '<': signed/unsigned mismatch
 g:\visual studio 2017\source\repos\gameoflife\gameoflife\gameoflife.cpp(26): warning C4018: '<': signed/unsigned mismatch
+  life.cpp
+g:\visual studio 2017\source\repos\gameoflife\gameoflife\life.cpp(18): warning C4018: '<': signed/unsigned mismatch
+g:\visual studio 2017\source\repos\gameoflife\gameoflife\life.cpp(19): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
   gameoflife.vcxproj -> G:\Visual Studio 2017\source\repos\gameoflife\Debug\gameoflife.exe
